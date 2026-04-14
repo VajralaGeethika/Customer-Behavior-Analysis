@@ -33,8 +33,7 @@ Standardized formats for better analysis.
 4. SQL Analysis (PostgreSQL)
 Loaded cleaned data into PostgreSQL.
 Wrote SQL queries to:
-
-Aggregate data
+Aggregate data.
 Filter key insights.
 Perform joins and grouping.
 Extracted meaningful business insights.
@@ -47,10 +46,10 @@ Enabled filtering and drill-down analysis.
 
 Key dashboard features:
 
-KPI summary (e.g., totals, averages)
-Trend analysis over time
-Category-wise comparisons
-Interactive filters for dynamic exploration
+KPI summary (e.g., totals, averages).
+Trend analysis over time.
+Category-wise comparisons.
+Interactive filters for dynamic exploration.
 
 📈 Results & Insights:
 
