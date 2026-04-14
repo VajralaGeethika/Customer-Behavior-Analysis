@@ -1,7 +1,7 @@
 # Customer-Behavior-Analysis
 Data Analytics Project showcasing Customers Behavior Analysis using Python, SQL and Power BI
 
-📌 Overview
+📌 Overview:
 
 This project demonstrates an end-to-end data analytics workflow, starting from data loading and cleaning to extracting insights using SQL and visualizing them through interactive dashboards. The goal is to uncover meaningful patterns and support data-driven decision-making.
 
@@ -10,13 +10,15 @@ This project demonstrates an end-to-end data analytics workflow, starting from d
 The dataset contains structured data relevant to business/operational analysis.
 Includes multiple features such as numerical, categorical, and time-based data.
 
-🛠️ Tools & Technologies
+🛠️ Tools & Technologies:
+
 Python (Pandas, NumPy)
 SQL (PostgreSQL)
 Power BI
 Jupyter Notebook
 
-🔄 Project Workflow
+🔄 Project Workflow:
+
 1. Data Loading
 Imported dataset using Python (Pandas)
 Performed initial inspection of data structure and types
@@ -40,14 +42,17 @@ Built interactive dashboards
 Visualized KPIs and trends
 Enabled filtering and drill-down analysis
 
-📊 Dashboards
+📊 Dashboards:
+
 Key dashboard features:
+
 KPI summary (e.g., totals, averages)
 Trend analysis over time
 Category-wise comparisons
 Interactive filters for dynamic exploration
 
-📈 Results & Insights
+📈 Results & Insights:
+
 Identified key trends and patterns in the dataset
 Highlighted inefficiencies and improvement areas
 Provided actionable insights for better decision-making
