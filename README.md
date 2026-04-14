@@ -20,27 +20,28 @@ Jupyter Notebook
 🔄 Project Workflow:
 
 1. Data Loading
-Imported dataset using Python (Pandas)
-Performed initial inspection of data structure and types
+Imported dataset using Python (Pandas).
+Performed initial inspection of data structure and types.
 2. Exploratory Data Analysis (EDA)
-Analyzed distributions, trends, and relationships
-Used visualizations (histograms, bar charts, heatmaps)
-Identified missing values and outliers
+Analyzed distributions, trends, and relationships.
+Used visualizations (histograms, bar charts, Button Slicers).
+Identified missing values and outliers.
 3. Data Cleaning
-Handled missing values
-Removed duplicates and inconsistencies
-Standardized formats for better analysis
+Handled missing values.
+Removed duplicates and inconsistencies.
+Standardized formats for better analysis.
 4. SQL Analysis (PostgreSQL)
-Loaded cleaned data into PostgreSQL
+Loaded cleaned data into PostgreSQL.
 Wrote SQL queries to:
+
 Aggregate data
-Filter key insights
-Perform joins and grouping
-Extracted meaningful business insights
-5. Dashboard Creation (Power BI)
-Built interactive dashboards
-Visualized KPIs and trends
-Enabled filtering and drill-down analysis
+Filter key insights.
+Perform joins and grouping.
+Extracted meaningful business insights.
+6. Dashboard Creation (Power BI).
+Built interactive dashboards.
+Visualized KPIs and trends.
+Enabled filtering and drill-down analysis.
 
 📊 Dashboards:
 
@@ -53,8 +54,8 @@ Interactive filters for dynamic exploration
 
 📈 Results & Insights:
 
-Identified key trends and patterns in the dataset
-Highlighted inefficiencies and improvement areas
-Provided actionable insights for better decision-making
-Improved understanding of data through visualization
+Identified key trends and patterns in the dataset.
+Highlighted inefficiencies and improvement areas.
+Provided actionable insights for better decision-making.
+Improved understanding of data through visualization.
 ata analysis, SQL querying, and dashboard creation. It reflects the ability to transform raw data into meaningful insights using industry-standard tools.
