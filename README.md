@@ -5,7 +5,8 @@ Data Analytics Project showcasing Customers Behavior Analysis using Python, SQL 
 
 This project demonstrates an end-to-end data analytics workflow, starting from data loading and cleaning to extracting insights using SQL and visualizing them through interactive dashboards. The goal is to uncover meaningful patterns and support data-driven decision-making.
 
-📂 Dataset
+📂 Dataset:
+
 The dataset contains structured data relevant to business/operational analysis.
 Includes multiple features such as numerical, categorical, and time-based data.
 
